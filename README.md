@@ -22,4 +22,4 @@ Another diffuculty is 'edge' cases. Say, your algo gives the right result for a 
 Use the user-supplied input to test 'edge' cases.
 
 Getting a correct answer for the default input is where the real game starts. Keep your reasoning skills sharp...
-# python-codility-solutions-artemp
+# -python-codility-solutions-artemp
